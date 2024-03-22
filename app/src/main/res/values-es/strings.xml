@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ABDUL AZIZ SULTON ASIGNACIÓN 5</string>
+    <string name="Share">Enviar</string>
+    <string name="Thanks">¡Gracias por comprar aquí!</string>
+    <string name="Bayar">"Monto del pago: Rp. "</string>
+    <string name="Discount">"Descuento para miembros: Rp. "</string>
+    <string name="DiscountB">"Precio de descuento: Rp. "</string>
+    <string name="TotalHarga">"Precio total: Rp. "</string>
+    <string name="Harga">"Precio: Rp. "</string>
+    <string name="NamaBarang">"Nombre de Dioses : "</string>
+    <string name="KodeBarang">Código del objeto :</string>
+    <string name="Transaksi">Transacciones de hoy</string>
+    <string name="Member">Tipo de miembro:</string>
+    <string name="Welcome">"BIENVENIDO "</string>
+    <string name="Gold">Oro :</string>
+    <string name="Silver">Plata :</string>
+    <string name="Biasa">Normal :</string>
+    <string name="TipePelanggan">Tipo de cliente:</string>
+    <string name="Nama">Nombre :</string>
+    <string name="KodeBaranA">Código del objeto :</string>
+    <string name="JumlahBarangA">La cantidad de bienes:</string>
+    <string name="Proses">Proceso :</string>
+</resources>

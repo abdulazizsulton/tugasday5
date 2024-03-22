@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:orientation="vertical"
+    android:background="#D2D180"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".detailllActivity2">
+
+    <TextView
+        android:id="@+id/tvUcapan"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/Welcome"
+        android:gravity="center"
+        android:textSize="18sp"
+        android:layout_marginTop="20dp"
+        android:layout_marginStart="20dp"/>
+
+    <TextView
+        android:id="@+id/tvTipeMeber"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/Member"
+        android:gravity="center"
+        android:textSize="18sp"
+        android:layout_marginTop="20dp"
+        android:layout_marginStart="20dp"/>
+
+    <TextView
+        android:id="@+id/tvTransaksi"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/Transaksi"
+        android:textSize="18sp"
+        android:layout_marginTop="20dp"
+        android:layout_marginStart="20dp"/>
+
+    <TextView
+        android:id="@+id/tvKodeBarang"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/KodeBarang"
+        android:textSize="18sp"
+        android:layout_marginTop="20dp"
+        android:layout_marginStart="20dp"/>
+
+    <TextView
+        android:id="@+id/tvNamaBarang"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/NamaBarang"
+        android:textSize="18sp"
+        android:layout_marginTop="10dp"
+        android:layout_marginStart="20dp"/>
+
+    <TextView
+        android:id="@+id/tvHarga"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/Harga"
+        android:textSize="18sp"
+        android:layout_marginTop="10dp"
+        android:layout_marginStart="20dp"/>
+
+    <TextView
+        android:id="@+id/tvTotalHarga"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/TotalHarga"
+        android:textSize="18sp"
+        android:layout_marginTop="10dp"
+        android:layout_marginStart="20dp"/>
+
+    <TextView
+        android:id="@+id/tvDiscountHarga"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/DiscountB"
+        android:textSize="18sp"
+        android:layout_marginTop="10dp"
+        android:layout_marginStart="20dp"/>
+
+    <TextView
+        android:id="@+id/tvDiscountMember"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/Discount"
+        android:textSize="18sp"
+        android:layout_marginTop="10dp"
+        android:layout_marginStart="20dp"/>
+
+    <TextView
+        android:id="@+id/tvJumlahBayar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/Bayar"
+        android:textSize="18sp"
+        android:layout_marginTop="10dp"
+        android:layout_marginStart="20dp"/>
+
+    <TextView
+        android:id="@+id/tvThanks"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/Thanks"
+        android:textSize="18sp"
+        android:layout_marginTop="28dp"
+        android:layout_marginStart="20dp"/>
+
+    <Button
+        android:id="@+id/btnShare"
+        android:layout_width="207dp"
+        android:layout_height="63dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="20dp"
+        android:text="@string/Share" />
+
+
+</LinearLayout>

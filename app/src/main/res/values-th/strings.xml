@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ABDUL AZIZ SULTON ASIGNACIÓN 5</string>
+    <string name="Share">ส่ง</string>
+    <string name="Thanks">ขอบคุณสำหรับการช้อปปิ้งที่นี่!</string>
+    <string name="Bayar">"จำนวนเงินที่ชำระ: Rp. "</string>
+    <string name="Discount">"ส่วนลดสมาชิก: Rp. "</string>
+    <string name="DiscountB">"ราคาส่วนลด: Rp. "</string>
+    <string name="TotalHarga">"ราคารวม: Rp. "</string>
+    <string name="Harga">"ราคา: รูเปียห์ : Rp. "</string>
+    <string name="NamaBarang">ชื่อสินค้า :</string>
+    <string name="KodeBarang">รหัสสินค้า :</string>
+    <string name="Transaksi">ธุรกรรมวันนี้</string>
+    <string name="Member">ประเภทสมาชิก:</string>
+    <string name="Welcome">"ยินดีต้อนรับ "</string>
+    <string name="Gold">ทอง :</string>
+    <string name="Silver">เงิน :</string>
+    <string name="Biasa">ปกติ :</string>
+    <string name="TipePelanggan">ประเภทลูกค้า:</string>
+    <string name="Nama">ชื่อ :</string>
+    <string name="KodeBaranA">รหัสสินค้า :</string>
+    <string name="JumlahBarangA">จำนวนสินค้า :</string>
+    <string name="Proses">กระบวนการ :</string>
+</resources>

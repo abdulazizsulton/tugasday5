@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ABDUL AZIZ SULTON Tugasan 5</string>
+    <string name="Share">Hantar</string>
+    <string name="Thanks">Terima Kasih Karena Membeli di Sini</string>
+    <string name="Bayar">"Jumlah Pembayaran : Rp. "</string>
+    <string name="Discount">"Diskaun ahli : Rp. "</string>
+    <string name="DiscountB">"Diskaun Harga : Rp. "</string>
+    <string name="TotalHarga">"Harga Keseluruhan : Rp. "</string>
+    <string name="Harga">"Harga : Rp. "</string>
+    <string name="NamaBarang">Nama Barang :</string>
+    <string name="KodeBarang">"Kod Barang : "</string>
+    <string name="Transaksi">"Transaksi Hari Ini "</string>
+    <string name="Member">Jenis Ahli :</string>
+    <string name="Welcome">"Selamat Datang "</string>
+    <string name="Gold">Emas</string>
+    <string name="Silver">Perak</string>
+    <string name="Biasa">Biasa</string>
+    <string name="TipePelanggan">Jenis Ahli :</string>
+    <string name="Nama">"Nama : "</string>
+    <string name="KodeBaranA">Kod Barang :</string>
+    <string name="JumlahBarangA">Jumlah Barang :</string>
+    <string name="Proses">Proses</string>
+</resources>

@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">ABDUL AZIZ SULTON TUGAS 5</string>
+    <string name="Share">Kirim </string>
+    <string name="Thanks">Terimakasih Telah belanja disini! </string>
+    <string name="Bayar">Jumlah Bayar : Rp. </string>
+    <string name="Discount">Discount Member : Rp. </string>
+    <string name="DiscountB">Discount Harga : Rp. </string>
+    <string name="TotalHarga">Total Harga : Rp. </string>
+    <string name="Harga">Harga : Rp. </string>
+    <string name="NamaBarang">Nama Barang :</string>
+    <string name="KodeBarang">Kode Barang : </string>
+    <string name="Transaksi">Transaksi Hari Ini </string>
+    <string name="Member">Tipe Member :</string>
+    <string name="Welcome">Selamat Datang </string>
+    <string name="Gold">Gold :</string>
+    <string name="Silver">Silver :</string>
+    <string name="Biasa">Biasa :</string>
+    <string name="TipePelanggan">Tipe Pelanggan :</string>
+    <string name="Nama">Nama :</string>
+    <string name="KodeBaranA">Kode Barang :</string>
+    <string name="JumlahBarangA">Jumlah Barang :</string>
+    <string name="Proses">Proses :</string>
+
+</resources>
